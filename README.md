@@ -28,4 +28,4 @@ I worked in a study group with Tim Smith and Ahmad Bustami
 Starter code was given
 
 # link
-https://cguzman37.github.io/work-scheduler/
+https://cguzman37.github.io/worker-scheduler/
